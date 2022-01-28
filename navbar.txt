@@ -1,0 +1,45 @@
+<div class = "banner" style = "position:relative;">
+<div style='color:white'>12/5/19:  <img src = "images/corrupt.png">Nidhogg cherishes those who spread corruption.</div>
+<a target = "blank" style= "position:absolute; bottom:0px; left:200px;" href = 'http://farragnarok.com/lohaecoinraffle.html'><img src = 'images/coin_link.png'></a>
+
+</div>
+<ul class = "menuPureCSS">
+  <span class = 'centeredMenu'>
+
+
+  <li class = "menuButtonPureCSS"><a href="index.html">Data</a></li>
+           <li class = "menuButtonPureCSS">       <a href="faq.html">FAQ</a></li>
+
+  <li class = "menuButtonPureCSS"><a href="petInventory.html">Grubs</a></li>
+    <li class = "menuButtonPureCSS"><a href="itemShop.html">Shop</a></li>
+
+    <li class = "menuButtonPureCSS"><a href="playPen.html">Play</a></li>
+
+  <li class = "menuButtonPureCSS"><a href="wigglerShop.html">Adopts</a></li>
+    <li class="dropdown menuButtonPureCSS">
+    <a href="javascript:void(0)" class="dropbtn">Alumni</a>
+        <div class="dropdown-content">
+         <a href="viewAlumni.html">Alumni</a>
+         <a href="viewSigns.html">Signs</a>
+    </li>
+    <li class = "menuButtonPureCSS"><a href="currentEmpress.html">Empress</a></li>
+
+            <li class="dropdown menuButtonPureCSS">
+            <a href="javascript:void(0)" class="dropbtn">Info</a>
+                <div class="dropdown-content">
+                <a href="status.html">News</a>
+                <a target = 'blank' href="TALES_from_the_TIMEHOLE.html">Tales</a>
+                <a href="https://farrago-fiction.myshopify.com/collections/all/WigglerSim?sort_by=created-ascending#MainContent">Merch</a>
+
+                <a href="meteors.html">Meteor Your Data</a>
+
+                <a href="http://wigglersim.wikia.com/wiki/WigglerSim_Wiki">Wiki</a>
+                <a href = 'http://farragofiction.com/FridgeSim/?WigglerSim=true'>FanArt</a>
+            </li>
+  <li class = "menuButtonPureCSS"><a href="https://discord.gg/N5WEdC8">DISCORD</a></li>
+  <li class = "menuButtonPureCSS"><a href="http://www.patreon.com/FarragoFiction">DONATE</a></li>
+
+  </span>
+</ul>
+
+
